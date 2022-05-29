@@ -1,2 +1,3 @@
-pub mod smart_socket;
-pub mod thermometer;
+pub mod device;
+pub mod home;
+pub mod room;
